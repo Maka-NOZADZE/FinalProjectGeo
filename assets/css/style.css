@@ -411,3 +411,31 @@ hr {
 .opText {
   margin-left: 20px;
 }
+
+/* *** section Happy Clients**** */
+.section--clients {
+  background: url();
+}
+.clients {
+  display: flex;
+  flex-wrap: wrap;
+}
+.clients_item {
+  width: 50%;
+  padding: 0 45px 0 75px;
+  position: relative;
+}
+.clients_photo {
+  position: absolute;
+  width: 110px;
+  height: 110px;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+}
+.clients_content {
+  margin-left: 60px;
+}
+.clients_text {
+  text-align: left;
+}
